@@ -1,0 +1,56 @@
+filters:
+  and:
+    - file.inFolder("VLA")
+    - file.ext == "md"
+formulas:
+  linked_title: link(file, title)
+properties:
+  alias:
+    displayName: alias
+  formula.linked_title:
+    displayName: title
+  year:
+    displayName: year
+  arxiv_number:
+    displayName: arxiv_number
+  tags:
+    displayName: tags
+  need_revisit:
+    displayName: need_revisit
+  arxiv_url:
+    displayName: arxiv_url
+  code_url:
+    displayName: code_url
+  opt_url:
+    displayName: opt_url
+views:
+  - type: table
+    name: Master
+    groupBy:
+      property: year
+      direction: DESC
+    order:
+      - alias
+      - formula.linked_title
+      - arxiv_number
+      - need_revisit
+      - tags
+      - arxiv_url
+      - code_url
+      - opt_url
+    sort:
+      - property: arxiv_number
+        direction: DESC
+      - property: formula.linked_title
+        direction: ASC
+      - property: alias
+        direction: ASC
+      - property: year
+        direction: DESC
+    columnSize:
+      note.alias: 87
+      formula.linked_title: 129
+      note.arxiv_number: 138
+      note.arxiv_url: 271
+      note.code_url: 363
+      note.opt_url: 301

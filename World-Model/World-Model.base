@@ -1,0 +1,54 @@
+filters:
+  and:
+    - file.inFolder("World-Model")
+    - file.ext == "md"
+formulas:
+  linked_title: link(file, title)
+properties:
+  alias:
+    displayName: alias
+  formula.linked_title:
+    displayName: title
+  year:
+    displayName: year
+  arxiv_number:
+    displayName: arxiv_number
+  tags:
+    displayName: tags
+  need_revisit:
+    displayName: need_revisit
+  arxiv_url:
+    displayName: arxiv_url
+  code_url:
+    displayName: code_url
+  opt_url:
+    displayName: opt_url
+views:
+  - type: table
+    name: Master
+    groupBy:
+      property: year
+      direction: DESC
+    order:
+      - alias
+      - formula.linked_title
+      - arxiv_number
+      - need_revisit
+      - tags
+      - arxiv_url
+      - code_url
+      - opt_url
+    sort:
+      - property: arxiv_number
+        direction: ASC
+      - property: year
+        direction: DESC
+      - property: formula.linked_title
+        direction: ASC
+    columnSize:
+      note.alias: 113
+      formula.linked_title: 94
+      note.arxiv_number: 138
+      note.arxiv_url: 272
+      note.code_url: 331
+      note.opt_url: 148
