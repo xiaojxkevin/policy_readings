@@ -5,8 +5,6 @@ year: "2026"
 arxiv_number: "2601.16163"
 tags:
   - manipulation
-  - dual_arm
-  - arm
 opt_url: ""
 arxiv_url: https://arxiv.org/abs/2601.16163
 code_url: https://github.com/nvlabs/cosmos-policy

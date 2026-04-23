@@ -46,9 +46,10 @@ views:
       - property: formula.linked_title
         direction: ASC
     columnSize:
-      note.alias: 113
-      formula.linked_title: 94
-      note.arxiv_number: 138
+      note.alias: 133
+      formula.linked_title: 179
+      note.arxiv_number: 104
+      note.need_revisit: 49
       note.arxiv_url: 272
       note.code_url: 331
       note.opt_url: 148

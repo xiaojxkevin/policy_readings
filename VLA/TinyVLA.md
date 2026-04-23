@@ -5,7 +5,6 @@ year: 2024
 arxiv_number: "2409.12514"
 tags:
   - manipulation
-  - arm
 opt_url:
 arxiv_url: https://arxiv.org/abs/2409.12514
 code_url: In RoboTwin repo

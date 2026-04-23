@@ -5,7 +5,6 @@ year: 2024
 arxiv_number: "2406.09246"
 tags:
   - manipulation
-  - arm
 opt_url:
 arxiv_url: https://arxiv.org/abs/2406.09246
 code_url: https://github.com/openvla/openvla

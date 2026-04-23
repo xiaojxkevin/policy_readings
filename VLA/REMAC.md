@@ -5,10 +5,11 @@ year: "2026"
 arxiv_number: "2601.20130"
 tags:
   - Inference
+  - manipulation
 opt_url: https://openreview.net/forum?id=r0RGJ1j9on
 arxiv_url: https://arxiv.org/abs/2601.20130
 code_url: https://github.com/hatchetProject/REMAC
-need_revisit: true
+need_revisit: false
 ---
 ###### Training
 Some notations: 

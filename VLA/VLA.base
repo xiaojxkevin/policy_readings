@@ -48,9 +48,10 @@ views:
       - property: year
         direction: DESC
     columnSize:
-      note.alias: 87
-      formula.linked_title: 129
-      note.arxiv_number: 138
+      note.alias: 127
+      formula.linked_title: 183
+      note.arxiv_number: 99
+      note.need_revisit: 47
       note.arxiv_url: 271
       note.code_url: 363
       note.opt_url: 301

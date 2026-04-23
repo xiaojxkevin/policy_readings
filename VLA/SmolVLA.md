@@ -5,7 +5,6 @@ year: 2025
 arxiv_number: "2506.01844"
 tags:
   - manipulation
-  - arm
 opt_url:
 arxiv_url: https://arxiv.org/abs/2506.01844
 code_url: https://huggingface.co/blog/smolvla

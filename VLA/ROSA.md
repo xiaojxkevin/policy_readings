@@ -5,7 +5,6 @@ year: "2025"
 arxiv_number: "2506.13679"
 tags:
   - manipulation
-  - arm
 opt_url: https://openreview.net/forum?id=I8a6bc9rmz
 arxiv_url: https://arxiv.org/abs/2506.13679
 code_url: ""
