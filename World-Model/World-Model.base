@@ -50,6 +50,7 @@ views:
       formula.linked_title: 179
       note.arxiv_number: 104
       note.need_revisit: 49
+      note.tags: 230
       note.arxiv_url: 272
       note.code_url: 331
       note.opt_url: 148

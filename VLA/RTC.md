@@ -9,7 +9,7 @@ tags:
 opt_url: https://openreview.net/forum?id=UkR2zO5uww
 arxiv_url: https://arxiv.org/abs/2506.07339
 code_url: https://github.com/Physical-Intelligence/real-time-chunking-kinetix
-need_revisit: false
+need_revisit: true
 ---
 # Inference-time RTC
 ![[rtc_inference.png]]

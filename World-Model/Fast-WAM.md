@@ -9,3 +9,12 @@ arxiv_url: https://arxiv.org/abs/2603.16666
 code_url: https://github.com/yuantianyuan01/FastWAM
 need_revisit: true
 ---
+###### Main Idea
+
+###### Pipeline
+![[fast-wam-fig1.png]]
+
+![[fast-wam-fig2.png]]
+
+###### Why FAST?
+作者在推理阶段不显示生成future images，而denoising images是最耗时的操作之一。
