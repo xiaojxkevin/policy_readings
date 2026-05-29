@@ -1,5 +1,5 @@
 ---
-alias: GR00T
+alias: GR00T N1
 title: "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"
 year: 2025
 arxiv_number: "2503.14734"

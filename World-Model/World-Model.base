@@ -40,7 +40,7 @@ views:
       - opt_url
     sort:
       - property: arxiv_number
-        direction: ASC
+        direction: DESC
       - property: year
         direction: DESC
       - property: formula.linked_title

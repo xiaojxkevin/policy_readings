@@ -7,7 +7,7 @@ tags:
   - manipulation
 opt_url: ""
 arxiv_url: https://arxiv.org/abs/2508.08113
-code_url: ""
+code_url: https://github.com/aimbot-reticle/openpi0-aimbot
 need_revisit: false
 ---
 这篇文章的尝试很有趣！-> 整个过程不需要额外training，只是augment输入
