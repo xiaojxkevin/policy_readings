@@ -49,7 +49,7 @@ views:
         direction: DESC
     columnSize:
       note.alias: 127
-      formula.linked_title: 183
+      formula.linked_title: 279
       note.arxiv_number: 99
       note.need_revisit: 47
       note.arxiv_url: 271

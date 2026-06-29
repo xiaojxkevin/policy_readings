@@ -47,7 +47,7 @@ views:
         direction: ASC
     columnSize:
       note.alias: 133
-      formula.linked_title: 179
+      formula.linked_title: 280
       note.arxiv_number: 104
       note.need_revisit: 49
       note.tags: 230

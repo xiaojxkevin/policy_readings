@@ -4,8 +4,8 @@ title: "VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint
 year: 2025
 arxiv_number: "2512.11891"
 tags:
-  - manipulation
   - Collision
+  - manipulation
 opt_url: ""
 arxiv_url: https://arxiv.org/pdf/2512.11891
 code_url: https://github.com/THU-RCSCT/vlsa-aegis

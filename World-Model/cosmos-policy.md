@@ -8,7 +8,7 @@ tags:
 opt_url: ""
 arxiv_url: https://arxiv.org/abs/2601.16163
 code_url: https://github.com/nvlabs/cosmos-policy
-need_revisit: true
+need_revisit: false
 ---
 ##### My question
 - auto-regressive and parallel, how do they interact with each other in the transformer
@@ -30,4 +30,4 @@ Planning mode deployment:
 1. 用 `Checkpoint A` 采样生成 3x5 个候选动作序列  。
 2. 用 `Checkpoint B` (Autoregressive 模式) 预测这 3x5 个动作未来的状态和 Value，选出得分最高的动作执行 (Best-of-N sampling) 。
 3. 由于计算密集，是**同步推理**
-###### About Code
+

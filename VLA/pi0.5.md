@@ -8,7 +8,7 @@ tags:
 opt_url:
 arxiv_url: https://arxiv.org/abs/2504.16054
 code_url:
-need_revisit: true
+need_revisit: false
 ---
 ##### Difference with pi0?
 ![[pi05.png]]
