@@ -1,7 +1,7 @@
 ---
 alias: PLD
 title: SELF-IMPROVING VISION-LANGUAGE-ACTION MODELS WITH DATA GENERATION VIA RESIDUAL RL
-year: "2026"
+year: "2025"
 arxiv_number: "2511.00091"
 tags:
   - RL

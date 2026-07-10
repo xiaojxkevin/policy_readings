@@ -11,4 +11,5 @@
 | https://github.com/starVLA/starVLA                                                               |                                            |                         |
 | Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface                     | https://arxiv.org/pdf/2512.19402           | data generation         |
 | LA4VLA: Learning to Act without Seeing via Language-Action Pretraining                           | https://arxiv.org/abs/2606.27295           | language pretrain       |
+| X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Pretraining                | https://arxiv.org/abs/2606.14752           |                         |
 

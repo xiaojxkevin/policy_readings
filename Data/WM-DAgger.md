@@ -4,7 +4,7 @@ title: "WM-DAgger: Enabling Efficient Data Aggregation for Imitation  Learning w
 year: "2026"
 arxiv_number: "2604.11351"
 tags:
-  - WAM
+  - Aug
 opt_url: ""
 arxiv_url: https://arxiv.org/abs/2604.11351
 code_url: ""
