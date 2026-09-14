@@ -4,7 +4,7 @@ title: "SEM: Enhancing Spatial Understanding for Robust Robot Manipulation"
 year: "2025"
 arxiv_number: "2505.16196"
 tags:
-  - manipulation
+  - geometry
 opt_url: ""
 arxiv_url: https://arxiv.org/abs/2505.16196
 code_url: ""

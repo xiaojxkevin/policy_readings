@@ -4,7 +4,6 @@ title: "COFREEVLA: COLLISION-FREE DUAL-ARM MANIPULATION VIA  VISION-LANGUAGE-ACT
 year: "2026"
 arxiv_number: "2601.21712"
 tags:
-  - manipulation
   - Collision
 opt_url: ""
 arxiv_url: https://arxiv.org/pdf/2601.21712

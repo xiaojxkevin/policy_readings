@@ -5,7 +5,6 @@ year: "2025"
 arxiv_number: "2506.07339"
 tags:
   - Inference
-  - manipulation
 opt_url: https://openreview.net/forum?id=UkR2zO5uww
 arxiv_url: https://arxiv.org/abs/2506.07339
 code_url: https://github.com/Physical-Intelligence/real-time-chunking-kinetix

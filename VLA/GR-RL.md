@@ -5,7 +5,6 @@ year: "2025"
 arxiv_number: "2512.01801"
 tags:
   - RL
-  - manipulation
 opt_url: https://seed.bytedance.com/zh/gr_rl
 arxiv_url: https://arxiv.org/abs/2512.01801
 code_url: ""

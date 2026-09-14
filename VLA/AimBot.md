@@ -4,7 +4,7 @@ title: "AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Vi
 year: "2025"
 arxiv_number: "2508.08113"
 tags:
-  - manipulation
+  - Aug
 opt_url: ""
 arxiv_url: https://arxiv.org/abs/2508.08113
 code_url: https://github.com/aimbot-reticle/openpi0-aimbot

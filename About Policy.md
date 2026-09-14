@@ -6,7 +6,7 @@ Focusing on **what** data to collect, **where** to collect more and **how** to b
 
 ## World Action Model
 
-![[World-Model/World-Model.base#Master]]
+![[World-Model.base]]
 
 ## VLA
 

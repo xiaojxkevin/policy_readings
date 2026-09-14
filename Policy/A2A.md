@@ -8,7 +8,7 @@ tags:
 opt_url: https://lorenzo-0-0.github.io/A2A_Flow_Matching
 arxiv_url: https://arxiv.org/pdf/2602.07322
 code_url: ""
-need_revisit: false
+need_revisit: true
 ---
 核心是使用previous action chunks作为下一步chunk的condition（在latent space）
 ![[a2a_overview.png]]
