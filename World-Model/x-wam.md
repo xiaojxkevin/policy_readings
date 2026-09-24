@@ -3,7 +3,8 @@ alias: x-wam
 title: Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising
 year: "2026"
 arxiv_number: "2604.26694"
-tags: []
+tags:
+  - geometry
 opt_url: https://sharinka0715.github.io/X-WAM/
 arxiv_url: https://arxiv.org/abs/2604.26694
 code_url: ""
