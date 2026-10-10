@@ -1,6 +1,6 @@
 ---
 alias: MoLA
-title: "From Imagined Futures to Executable Actions: Mixture of Latent Actions forRobot Manipulation"
+title: "From Imagined Futures to Executable Actions: Mixture of Latent Actions forR obot Manipulation"
 year: "2026"
 arxiv_number: "2605.12167"
 tags: []
