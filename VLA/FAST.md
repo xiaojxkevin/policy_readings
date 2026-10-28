@@ -5,6 +5,7 @@ year: "2025"
 arxiv_number: "2501.09747"
 tags:
   - freq-domain
+  - tokenize
 opt_url: ""
 arxiv_url: https://arxiv.org/pdf/2501.09747
 code_url: ""
